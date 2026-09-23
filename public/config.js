@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Leaderboard,Markets,Portfolio,Trading",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
-  "VITE_ENABLE_CAMPAIGNS": "true",
+  "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/VaelTrade",
